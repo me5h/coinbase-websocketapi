@@ -1,6 +1,9 @@
 # ReactJS currency dashboard 
 This code is based on a fork of: https://github.com/renaissancetroll/reactjs-crypto-api-dashboard 
 
+# If I was going to do this I would use the binance API
+After having a look into this I looked at what is avaiable from tradingview and then realised the binance API is real time or atleast more realtime then the others.
+
 ## Limit currencies array to
 'BTC-USD', 'ETH-USD', 'XRP-USD', 'LTC-USD',
 
@@ -17,4 +20,5 @@ https://thomason-isaiah.medium.com/writing-integration-tests-for-websocket-serve
 
 ### For Jest coverage run:
 npm test
+
 
